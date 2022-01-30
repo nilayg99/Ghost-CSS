@@ -1,0 +1,149 @@
+/* Twitter: @nilayg99 */
+
+.ghostbody {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: rgb(255, 255, 255);
+    border: solid 2px black;
+    border-color: #000;
+    height: 54px;
+    width: 100px;
+    border-radius: 200px 20px 200px 200px;
+    transform:rotate(90deg);
+
+}
+
+.eyeleft {
+    position: absolute;
+    top: 50%;
+    left: 52.5%;
+    height: 16px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+  }
+
+  .eyeright {
+    position: absolute;
+    top: 50%;
+    left: 54.5%;
+    height: 16px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+  }
+
+  .lineleft1{
+
+    
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    color: #ff9aab;
+    transform: rotate(25deg) scale(var(--ggs,1));
+    width: 2px;
+    height: 10px;
+    top: 54% ;
+    left :52.7% ;
+    background: currentColor;
+    border-radius: 3px
+    
+  }
+
+  .lineleft2{
+
+    
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    color: #ff9aab;
+    transform: rotate(25deg) scale(var(--ggs,1));
+    width: 2px;
+    height: 10px;
+    top: 54% ;
+    left :52.4% ;
+    background: currentColor;
+    border-radius: 3px
+    
+  }
+
+  .lineleft3{
+
+    
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    color: #ff9aab;
+    transform: rotate(25deg) scale(var(--ggs,1));
+    width: 2px;
+    height: 10px;
+    top: 54% ;
+    left :53% ;
+    background: currentColor;
+    border-radius: 3px
+    
+  }
+
+  .lineright1{
+
+    
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    color: #ff9aab;
+    transform: rotate(25deg) scale(var(--ggs,1));
+    width: 2px;
+    height: 10px;
+    top: 54% ;
+    left :55% ;
+    background: currentColor;
+    border-radius: 3px
+    
+  }
+
+  .lineright2{
+
+    
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    color: #ff9aab;
+    transform: rotate(25deg) scale(var(--ggs,1));
+    width: 2px;
+    height: 10px;
+    top: 54% ;
+    left :54.7% ;
+    background: currentColor;
+    border-radius: 3px
+    
+  }
+
+  .lineright3{
+
+    
+    box-sizing: border-box;
+    position: absolute;
+    display: block;
+    color: #ff9aab;
+    transform: rotate(25deg) scale(var(--ggs,1));
+    width: 2px;
+    height: 10px;
+    top: 54% ;
+    left :54.4% ;
+    background: currentColor;
+    border-radius: 3px
+    
+  }
+
+  .mouth{
+    position: absolute;
+    top: 40%;
+    left: 52.5% ;
+    width: 30px; 
+    height: 100px;  
+    border: solid 2.5px #000;
+    border-color: #000 transparent transparent transparent;
+    border-radius: 50%/100px 100px 0 0;  ;
+    transform: rotate(180deg);
+  }
